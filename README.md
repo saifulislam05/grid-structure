@@ -8,12 +8,14 @@ This project demonstrates a grid-based webpage layout using HTML and CSS. The la
 
 ### Navigation Bar (`div.nav`)
 The navigation bar contains a set of buttons that provide navigation links.
+![image](https://github.com/saifulislam05/grid-structure/assets/73392705/23fa9f70-4fe8-49c8-b381-2b62db22ce6c)
 
 - `div.nav`: The navigation bar container.
   - `button`: Navigation buttons with a black background and white text.
 
 ### Image Grid
 The project displays a grid of images using CSS Grid.
+![image](https://github.com/saifulislam05/grid-structure/assets/73392705/59b58c40-5ac5-4094-9547-90ee77f1edc7)
 
 - `div.wrapper`: The main wrapper for the grid layout.
   - `.item`: Individual grid items containing images.
