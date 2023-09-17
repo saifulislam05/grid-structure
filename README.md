@@ -1,5 +1,7 @@
 # Grid Structure Ass-9 CSS
 
+## Hosted Link
+You can view the project live at [View Live Project](https://saifulislam05.github.io/grid-structure/)
 
 ## Project Description
 This project demonstrates a grid-based webpage layout using HTML and CSS. The layout consists of a navigation bar and a grid of images.
